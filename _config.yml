@@ -1,7 +1,7 @@
 ### Site Settings ###
 title: Pai Hwai
 logo: images/head_shot.png
-description: 'Inquisitive. Tech enthusist. Creating data driven results for AI powered solutions'
+description: 'Inquisitive. Tech enthusist. Creating data driven results for AI powered solutions.'
 email: phwai2002@gmail.com
 show_downloads: true
 theme: jekyll-theme-minimal
@@ -13,6 +13,6 @@ header_navigation:
   - title: LinkedIn
     url: www.linkedin.com/in/pai-hwai-3377681b7
     
-  - title: E-mail
+  - title: email
     url: mailto:phwai2002@gmail.com
     
