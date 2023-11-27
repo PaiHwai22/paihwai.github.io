@@ -5,7 +5,7 @@ BSc Data Science, James Cook University Singapore
 
 ### Competition Experience
 (2023)
-Ernst and Young Data Science Competition in collaboration with Microsoft and Cornell
+[Ernst and Young Data Science Competition in collaboration with Microsoft and Cornell](https://challenge.ey.com/challenges/past/level-1-crop-identification-global?id=637e2d535712cf0015c7691f)
 - Level 1: Crop Identification
 
 - Level 2: Yield Estimation
