@@ -1,5 +1,4 @@
-`#000000`
-## Data Scientist
+# Data Science Portfolio
 
 ### Education
 BSc Data Science, James Cook University Singapore
