@@ -4,7 +4,7 @@ logo: images/head_shot.png
 description: 'Inquisitive. Tech enthusist. Creating data driven results for AI powered solutions.'
 email: phwai2002@gmail.com
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 background: black
 
 ### Navigation Menus ###
