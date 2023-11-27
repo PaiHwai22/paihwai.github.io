@@ -6,7 +6,7 @@ BSc Data Science, James Cook University Singapore
 
 ### Competition Experience
 (2023)
-[Ernst and Young Global Data Science Competition (in collaboration with Microsoft and Cornell)](https://challenge.ey.com/challenges/past/level-1-crop-identification-global?id=637e2d535712cf0015c7691f)
+[Ernst and Young Global Data Science Competition (with Microsoft and Cornell)](https://challenge.ey.com/challenges/past/level-1-crop-identification-global?id=637e2d535712cf0015c7691f)
 - **Level 1: Crop Identification**
   
   Placing 4th in Singapore Region, our 2 person team built a 94% high accuracy AI Machine Learning Model to identify areas where rice is cultivated.
