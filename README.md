@@ -1,7 +1,12 @@
 # Data Science Portfolio
 
 ### Education
-BSc Data Science, James Cook University Singapore
+BSc Data Science,
+
+James Cook University Singapore
+
+### Technical Skills
+Python, SQL, Java Script, R, Tensorflow, Keras, AWS, GoogleCloud, PowerBI, Tableau,
 
 ### Competition Experience
 (2023)
