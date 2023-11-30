@@ -6,27 +6,34 @@ BSc Data Science, James Cook University Singapore
 ### Competition Experience
 (2023)
 [Ernst and Young Global Data Science Competition (with Microsoft and Cornell)](https://challenge.ey.com/challenges/past/level-1-crop-identification-global?id=637e2d535712cf0015c7691f)
-- **Level 1: Crop Identification**
+- **Level 1: [Crop Identification](https://github.com/PaiHwai22/Ernst-and-Young-Data-Science-Challenge-2023/blob/main/EY%20Level%201%20Submission%20Final.pdf)**
   
-  Placing 4th in Singapore Region, I pre-processed the data for our 2 person team to build  a neural network to train radar images to classify if the crop was rice or non rice. Utilizing Sentinel-1 data given from the planetary computer API key, we accomplished in building AI Machine Learning Model with a high accuracy evaluation score of 96%. The model was built in python language utilizing tensorflow and Keras API Libraries. 
+  Placing 4th in Singapore Region, our 2 person team built a neural network to train radar images to classify if the crop was rice or non rice.
+  Utilizing Sentinel-1 data given from the planetary computer API key, we accomplished in building AI Machine Learning Model with a high accuracy evaluation score of 96%.
+  The model was built in python language utilizing tensorflow and Keras API Libraries. Led the preprocessing portion. 
 
-- **Level 2: Yield Estimation**
+- **Level 2: [Yield Estimation](https://github.com/PaiHwai22/Ernst-and-Young-Data-Science-Challenge-2023/blob/main/Level%202%20Submission.ipynb)**
   
-  Placing 6th in Singapore Region, I led my team in building a one-tree regressor model, to help scientists better understand the impact of climate change on crop yields.
-  We used data from Microsoft Planetary Computer to access Sentinel-1 (radar), Sentinel-2 (optical), and Landsat data (optical). The model is purposed to forcast
+  Placing 6th in Singapore Region, I led my team in building a one-tree regressor machine learning model to help scientists better understand the impact of climate change on crop
+  yields. We used data from Microsoft Planetary Computer to access Sentinel-1 (radar), Sentinel-2 (optical), and Landsat data (optical). The model is purposed to forcast
   yield for any identified area of crop region. Applying feature engineering techinques and hyperparameter tuning, I improved the the 0.25 R2 baseline score to 0.64.
   
 ### Personal Projects 
 (2023)
-[Banking: Loan Default Prediction](https://github.com/PaiHwai22/LoanDefaultPrediction/blob/main/LDP_HistGradBoost_85%25.ipynb)
-- Using a kaggle dataset for behavioral data and customer information, I built a predictor Histogram Gradient Boosting Classifier Model to predict if the customer will default on their loan. As the dataset had too many null values for important feature columns, I implemented the MICE imputation model and further improved accuracy outputs with feature engineering techniques to balance the targeted predictor. I optimized the hyperparameters with GridSearchCV to run all possible permutation combinations. The model is developed in Python language utilzing libraries such as Seaborn, Matlib, Pandas, Imputer, and NumPy. 
+- [Banking: Loan Default Prediction](https://github.com/PaiHwai22/LoanDefaultPrediction/blob/main/LDP_HistGradBoost_85%25.ipynb)
+  Using a kaggle dataset for behavioral data and customer information, I built a predictor Histogram Gradient Boosting Classifier Model to predict if the customer will default on their
+  loan. As the dataset had too many null values for important feature columns, I implemented the MICE imputation model and further improved accuracy outputs with feature engineering
+  techniques to balance the targeted predictor. I optimized the hyperparameters with GridSearchCV to run all possible permutation combinations. The model is developed in Python
+  language utilzing libraries such as Seaborn, Matlib, Pandas, Imputer, and NumPy. 
 
 (2022)
 [Conveyor Belt Operations: Real-Time Image Classification](https://github.com/PaiHwai22/CNN-for-Fruits-Classification)
-- food processing: Convolutionary Neural Network for Realtime Image Classification
+***food processing: Convolutionary Neural Network for Realtime Image Classification***
+  
   I developed a Convolutional Neural Network for Image Classification on AWS SageMaker platform, utilizing keras and tensorflow API libraries. I applied Data Augmentation techniques with Keras' Image Data Generator and preprocessed the training data with feature engineering for RGB colors, normalization and scaling. The final model is evaluated at 91.45% accuracy when trained on 12 features on classfying images it has never seen before.
    
-- food processing: VGG16 transfer model for realtime image classification
+***food processing: VGG16 Transfer Model for Realtime Image Classification***
+  
   I developed a transfer learning model on AWS SageMaker utilizing SageBucket for data storage. I utilized splitfolder library to train the image data on the VGG16 transfer learning model. VGG16 Model was used because it has similar evaluation score to my own model at 92.7%. I freeze the top layers and train only on the last layers for the model to be optimized for my specific task. I add a fine tuning hyperparameter, ReduceLRonPlateau to reduce learning rate and achieve in finding the optimal learning rate. The model is evaulated at 86% accuracy. 
 
 ### Team Projects
